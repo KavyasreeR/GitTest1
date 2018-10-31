@@ -1,0 +1,7 @@
+E:\aveva\visualstudiopgm\datetryparse\datetryparse\bin\Debug\datetryparse.exe.config
+E:\aveva\visualstudiopgm\datetryparse\datetryparse\bin\Debug\datetryparse.exe
+E:\aveva\visualstudiopgm\datetryparse\datetryparse\bin\Debug\datetryparse.pdb
+E:\aveva\visualstudiopgm\datetryparse\datetryparse\obj\Debug\datetryparse.csprojAssemblyReference.cache
+E:\aveva\visualstudiopgm\datetryparse\datetryparse\obj\Debug\datetryparse.csproj.CoreCompileInputs.cache
+E:\aveva\visualstudiopgm\datetryparse\datetryparse\obj\Debug\datetryparse.exe
+E:\aveva\visualstudiopgm\datetryparse\datetryparse\obj\Debug\datetryparse.pdb
